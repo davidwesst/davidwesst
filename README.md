@@ -6,11 +6,12 @@ By day, I work in technology by architecting software solutions. By night, I exe
 ## Where to Find Me
 [Blog](https://davidwesst.com/blog) | [Twitter](https://twitter.com/davidwesst) | [Twitch](https://twitch.tv/davidwesst) | [YouTube](https://youtube.com/davidwesst) | [LinkedIn](https://ca.linkedin.com/in/davidwesst)
 
-## Currently Learning
-C. Yeah, C.
+## Currently ⚗️ Learning
+C with a pinch of WASM/WASI. 
+Refreshing my C# skills too.
 
-## Currently Building
+## Currently 💻 Building
 ..TBD.. (I'd prefer to show, not tell)
 
-## Currently Playing
+## Currently 🎮 Playing
 The Outer Wilds: Echoes of the Eye ([LINK](https://youtu.be/pt9M6WumjtE))
