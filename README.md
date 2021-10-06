@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey Friendo, it's DW (he/him).
+I try to enable creativity with technology, one game at a time. My goal is to build cool stuff, plain and simple. 
 
-<!--
-**davidwesst/davidwesst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+By day, I work in technology by architecting software solutions. By night, I exercise my creativity by creating content, code, and whatever else I feel like making. I ❤️ video games, especially the weird indie ones, and love tinkering in game development.
 
-Here are some ideas to get you started:
+## Where to Find Me
+[Blog](https://davidwesst.com/blog) | [Twitter](https://twitter.com/davidwesst) | [Twitch](https://twitch.tv/davidwesst) | [YouTube](https://youtube.com/davidwesst) | [LinkedIn](https://ca.linkedin.com/in/davidwesst)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+C. Yeah, C.
+
+## Currently Building
+..TBD.. (I'd prefer to show, not tell)
+
+## Currently Playing
+The Outer Wilds: Echoes of the Eye ([LINK](https://youtu.be/pt9M6WumjtE))
