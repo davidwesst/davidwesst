@@ -21,8 +21,8 @@ I've been on social media since it became a thing, but these are the places I'm 
 - ...more stuff... (I'd prefer to show, not tell)
 
 ## Currently 🎮 Playing
-- [Danganrompa: Trigger Happy Havoc](https://www.nintendo.com/games/detail/danganronpa-trigger-happy-havoc-anniversary-edition-switch/)
-- [Final Fantasy XIV Online](https://www.finalfantasyxiv.com/)
+- [Danganrompa: Trigger Happy Havoc (Switch)](https://www.nintendo.com/games/detail/danganronpa-trigger-happy-havoc-anniversary-edition-switch/)
+- [Final Fantasy XIV Online (PS5)](https://www.finalfantasyxiv.com/)
 
 
 
