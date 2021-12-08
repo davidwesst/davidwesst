@@ -1,19 +1,34 @@
 # Hey Friendo, it's DW (he/him).
-I try to enable creativity with technology, one game at a time. My goal is to **play and build cool stuff**, plain and simple. 
+ My goal is simple: **Play and Build Cool Stuff**. That's it.
+ 
+What is _cool stuff_ to me? Usually video games and web-platform code and tech, but I would hate to limit my interests. 😎 
 
-By day, I work in technology by architecting software solutions. By night, I exercise my creativity by creating content, code, and whatever else I feel like making. Oh, and I ❤️ video games. Especially the weird indie ones and anything _"retro"_. When I'm not playing, I'm tinkering in game development by doing the occasional jam.
+I am a Solution Architect by daylight and have a little over a decade of software development experience in a variety of technologies, focusing using on web platform (i.e. JavaScript, Node) and C#. By moonlight, I exercise my creative side with code and gameplay, which I share on Tuesdays and Thursdays at 9pm (UTC-6) on [Twitch][twitch-link]...but check the [schedule][twitch-schedule] to get the latest.
 
 ## Where to Find Me
-[Blog](https://davidwesst.com/blog) | [Twitter](https://twitter.com/davidwesst) | [Twitch](https://twitch.tv/davidwesst) | [YouTube](https://youtube.com/davidwesst) | [LinkedIn](https://ca.linkedin.com/in/davidwesst)
+I've been on social media since it became a thing, but these are the places I'm most active.
+
+[Blog](https://davidwesst.com/blog) | [Twitter](https://twitter.com/davidwesst) | [Twitch][twitch-schedule] | [YouTube](https://youtube.com/davidwesst) | [LinkedIn](https://ca.linkedin.com/in/davidwesst)
 
 ## Currently ⚗️ Learning
-- Messing with [GDevelop](https://gdevelop-app.com) for gamejam purposes
 - Refreshing my C# & Node Skills
-- Web3 & dApps
+- [Godot Engine 3.4](https://godotengine.org/) with a focus on the [Web Support](https://docs.godotengine.org/en/stable/getting_started/workflow/export/exporting_for_web.html)
+- Web3 & dApps (I'm skeptical, but the tech is definitely interesting)
 - Quantum Computing
 
 ## Currently 💻 Building
-..TBD.. (I'd prefer to show, not tell)
+- [GatsbyJS](https://www.gatsbyjs.com/) with my [website][website-repo]
+- ...more stuff... (I'd prefer to show, not tell)
 
 ## Currently 🎮 Playing
-Shenmue II (PS4) [[LINK]](https://en.wikipedia.org/wiki/Shenmue_II)
+- Danganrompa: Trigger Happy Havoc [[LINK]](https://www.nintendo.com/games/detail/danganronpa-trigger-happy-havoc-anniversary-edition-switch/)
+- Final Fantasy XIV Online [[LINK]](https://www.finalfantasyxiv.com/)
+
+
+
+
+[blog-link]: https://www.davidwesst.com/blog
+[twitch-link]: https://twitch.tv/davidwesst
+[twitch-schedule]: https://www.twitch.tv/davidwesst/schedule
+[website-link]: https://www.davidwesst.com
+[website-repo]: https://github.com/davidwesst/website
