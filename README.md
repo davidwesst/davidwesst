@@ -1,30 +1,26 @@
 # Hey Friendo, it's DW (he/him).
- My goal is simple: **Play and Build Cool Stuff**. That's it.
- 
-What is _cool stuff_ to me? Usually video games and web-platform code and tech, but I would hate to limit my interests. 😎 
+My goal is simple: **Build Cool Stuff**, but I like to think of that as **making ideas a reality through code and applied creativity**.
 
-I am a Solution Architect by daylight and have a little over a decade of software development experience in a variety of technologies, mainly web platform (i.e. JavaScript, Node) and .NET/C#. By moonlight, I exercise my creative side with code and gameplay, which I share on Tuesdays and Thursdays at 9pm (UTC-6) on [Twitch][twitch-link]...but check the [schedule][twitch-schedule] to get the latest.
+On the tech side usually focus on DevOps Tooling, Web Platform Tech, and .NET with a facination with C. On the soft side, I'm a firm believer in clear and continal communication, which is why I pratice on [Twitch][twitch-link] weekly; and applying creativity to create innovative software solutions.
 
 ## Where to Find Me
 I've been on social media since it became a thing, but these are the places I'm most active.
 
-[Blog][blog-link] | [Twitter](https://twitter.com/davidwesst) | [Twitch][twitch-schedule] | [YouTube](https://youtube.com/davidwesst) | [LinkedIn](https://ca.linkedin.com/in/davidwesst)
+[Blog][blog-link] | [Twitter][twitter-link] | [Twitch][twitch-schedule] | [YouTube](https://youtube.com/davidwesst) | [LinkedIn][linkedin-link]
 
 ## Currently ⚗️ Learning
-- Refreshing my C# & Node Skills
-- [Godot Engine 3.4](https://godotengine.org/) with a focus on the [Web Support](https://docs.godotengine.org/en/stable/getting_started/workflow/export/exporting_for_web.html)
-- Web3 & dApps (I'm skeptical, but the tech is definitely interesting)
+- DevContainers! DevContainers! DevContainers!
+- C, CMake, and C Bindings to other languages
 - Quantum Computing
 
 ## Currently 💻 Building
 - [GatsbyJS](https://www.gatsbyjs.com/) with my [website][website-repo]
-- ...more stuff... (I'd prefer to show, not tell)
+- [Modernizing Micropolis](https://github.com/davidwesst/micropolis) Code with DevOps
+- ...more [WIP](https://github.com/HTBox/TwoWeeksReady) stuff... (I'd prefer to show, not tell)
 
 ## Currently 🎮 Playing
-- (Completed) [Danganrompa: Trigger Happy Havoc (Switch)](https://www.nintendo.com/games/detail/danganronpa-trigger-happy-havoc-anniversary-edition-switch/)
 - [Final Fantasy XIV Online (PS5)](https://www.finalfantasyxiv.com/)
-
-
+- ...Seeking Next Challenge...
 
 
 [blog-link]: https://www.davidwesst.com/blog
@@ -32,3 +28,5 @@ I've been on social media since it became a thing, but these are the places I'm 
 [twitch-schedule]: https://www.twitch.tv/davidwesst/schedule
 [website-link]: https://www.davidwesst.com
 [website-repo]: https://github.com/davidwesst/website
+[linkedin-link]: https://ca.linkedin.com/in/davidwesst
+[twitter-link]: https://twitter.com/davidwesst
