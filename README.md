@@ -1,5 +1,5 @@
 # Hey Friendo, it's DW (he/him).
-My goal is simple: **Build Cool Stuff**, but I like to think of that as **making ideas a reality through code and applied creativity**.
+My goal is simple: **code cool stuff**, but I like to think of that as **making ideas a reality through code, creativity, and devops**.
 
 On the tech side usually focus on DevOps Tooling, Web Platform Tech, and .NET with a facination with C. On the soft side, I'm a firm believer in clear and continal communication, which is why I pratice on [Twitch][twitch-link] weekly; and applying creativity to create innovative software solutions.
 
