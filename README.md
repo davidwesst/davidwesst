@@ -14,13 +14,13 @@ I've been on social media since it became a thing, but these are the places I'm 
 - Quantum Computing
 
 ## Currently 💻 Building
-- [GatsbyJS](https://www.gatsbyjs.com/) with my [website][website-repo]
-- [Modernizing Micropolis](https://github.com/davidwesst/micropolis) Code with DevOps
-- ...more [WIP](https://github.com/HTBox/TwoWeeksReady) stuff... (I'd prefer to show, not tell)
+- [VideoGameLibrary](https://github.com/cocobokostudios/videogamelibrary)
+- [davidwesst.com][website-link] with [GatsbyJS][website-repo]
+- [Two Weeks Ready](https://github.com/HTBox/TwoWeeksReady)
 
 ## Currently 🎮 Playing
+- [Zero Escape: Virtue's Last Reward (XBox)](https://www.igdb.com/games/zero-escape-virtue-s-last-reward/)
 - [SimCity (SNES)](https://www.igdb.com/games/simcity--2)
-- [Final Fantasy XIV Online (PS5)](https://www.finalfantasyxiv.com/)
 
 
 [blog-link]: https://www.davidwesst.com/blog
