@@ -1,27 +1,21 @@
 # Hey Friendo, it's DW (he/him).
-My goal is simple: **code cool stuff**, but I like to think of that as **making ideas a reality through code, creativity, and devops**.
+I am a solution architect by day, where I focus on technology strategy and enterprise development challenges. By night, I love to learn about code and build stuff with code. More specifically web-related and game-related things.
 
-On the tech side usually focus on DevOps Tooling, Web Platform Tech, and .NET with a facination with C. On the softer side, I'm a firm believer in clear and continual communication, which is why I pratice on [Twitch][twitch-link] weekly; and applying creativity to create innovative software solutions.
+## Where you can find me
 
-## Where to Find Me
-I've been on social media since it became a thing, but these are the places I'm most active.
-
-[Blog][blog-link] | [Twitter][twitter-link] | [Twitch][twitch-schedule] | [YouTube](youtube-link) | [LinkedIn][linkedin-link]
+[Blog][blog-link] | <a rel="me" href="https://indieweb.social/@davidwesst">Mastodon</a> | [LinkedIn][linkedin-link] | [YouTube](youtube-link) |  [Twitter][twitter-link] | [Twitch][twitch-schedule]
 
 ## Currently ⚗️ Learning
-- DevContainers! DevContainers! DevContainers!
-- C, CMake, and C Bindings to other languages
-- Quantum Computing
+- [Eleventy](https://11ty.dev)
+- [Rust](https://www.rust-lang.org/)
+- [Azure Logic Apps](https://learn.microsoft.com/en-us/azure/logic-apps/)
 
 ## Currently 💻 Building
-- [VideoGameLibrary](https://github.com/cocobokostudios/videogamelibrary)
-- [davidwesst.com][website-link] with [GatsbyJS][website-repo]
+- [davidwesst.com][website-link] with [Eleventy on GitHub][website-repo]
 - [Two Weeks Ready](https://github.com/HTBox/TwoWeeksReady)
 
 ## Currently 🎮 Playing
-- [Zero Escape: Virtue's Last Reward (XBox)](https://www.igdb.com/games/zero-escape-virtue-s-last-reward/)
-- [SimCity (SNES)](https://www.igdb.com/games/simcity--2)
-
+- [Cthulu Saves the World (Steam)](https://zeboyd.com/cthulhu-saves-the-world/)
 
 [blog-link]: https://www.davidwesst.com/blog
 [twitch-link]: https://twitch.tv/davidwesst
