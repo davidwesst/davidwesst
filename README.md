@@ -3,7 +3,7 @@ My name is  David Wesst, but a lot of people call me DW or Wessty for short. I w
 
 ## Where you can find me
 
-[Blog][blog-link] | <a rel="me" href="https://indieweb.social/@davidwesst">Mastodon</a> | [LinkedIn][linkedin-link] | [YouTube](youtube-link) |  [Twitter][twitter-link] | [Twitch][twitch-schedule] | [Bluesky][blueksy-link]
+[Blog][blog-link] | <a rel="me" href="https://indieweb.social/@davidwesst">Mastodon</a> | [LinkedIn][linkedin-link] | [YouTube](youtube-link) |  [Twitter][twitter-link] | [Twitch][twitch-schedule] | [Bluesky][bluesky-link]
 
 ## ⚗️ Currently Learning
 - [Rust](https://www.rust-lang.org/)
