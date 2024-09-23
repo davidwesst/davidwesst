@@ -8,7 +8,7 @@ My name is David Wesst, but a lot of people call me DW or Wessty for short. I wo
 
 ## 💻 Building
 
-- [davidwesst.com (my website)][website-repo]
+- [davidwesst.com (my website)][website-link]
 - [Tech Talks][talks-repo]
 - Unannounced Video Game Project (More Soon)
 
