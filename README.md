@@ -10,7 +10,7 @@ My name is David Wesst, but a lot of people call me DW or Wessty for short. I wo
 
 - [davidwesst.com (my website)][website-link]
 - [Tech Talks][talks-repo]
-- Unannounced Video Game Project (More Soon)
+- Indie Video Games
 
 ## ⚗️ Using
 
