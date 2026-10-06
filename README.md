@@ -32,4 +32,4 @@ My name is David Wesst, but a lot of people call me DW or Wessty for short. I wo
 [linkedin-link]: https://ca.linkedin.com/in/davidwesst
 [twitter-link]: https://twitter.com/davidwesst
 [youtube-link]: https://youtube.com/davidwesst
-[bluesky-link]: https://bsky.app/profile/davidwesst.bsky.social
+[bluesky-link]: https://bsky.app/profile/david.wes.st
